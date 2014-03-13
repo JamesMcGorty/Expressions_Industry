@@ -1,7 +1,7 @@
 <script type="text/javascript"> 
 <!-- 
 
-function additionalc() 
+function additioncalc() 
 { 
 
 number1 = prompt("Please enter your pay per hour"); 
