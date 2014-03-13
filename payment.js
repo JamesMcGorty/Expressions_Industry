@@ -11,4 +11,5 @@ number2 = parseInt(number2); // Convert to type 'int'
 numbe3 = prompt("Please enter any overtime hours  "); 
 number31 = parseInt(number3); // Convert to type 'int' 
 
-weeklypay=
+
+weeklypay=(number1*number2)+(number3*1.5)
