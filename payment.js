@@ -1,7 +1,7 @@
 <script type="text/javascript"> 
 <!-- 
 
-function additioncalc() 
+function weeklypaycalc() 
 { 
 
 number1 = prompt("Please enter your pay per hour"); 
@@ -11,3 +11,4 @@ number2 = parseInt(number2); // Convert to type 'int'
 numbe3 = prompt("Please enter any overtime hours  "); 
 number31 = parseInt(number3); // Convert to type 'int' 
 
+weeklypay=
