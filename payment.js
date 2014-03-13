@@ -13,3 +13,8 @@ number3 = parseInt(number3); // Convert to type 'int'
 
 
 weeklypay=(number1*number2)+(number3*1.5)
+
+} 
+
+//--> 
+</script> 
